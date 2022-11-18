@@ -10,7 +10,7 @@ public class CanvasUI : MonoBehaviour
     public TextMeshProUGUI deskripsi_txt;
     public Image image_ui;
 
-    //tujuannya adalah membuat spesifik dari setiap element yang diinteraksikan
+    //tujuannya adalah membuat spesifik dari setiap element yang diinteraksikan hello
     public GameObject target = null;
 
     List<global> arr = new List<global>();
